@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://gitlab.com/recipe-cookbook/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://gitlab.com/recipe-cookbook/backend.git
+[submodule "common"]
+	path = common
+	url = https://gitlab.com/recipe-cookbook/common.git
