@@ -10,6 +10,8 @@ A modern, React+GraphQL _cooking_ Cookbook. I was not satisfied with any other e
 
 This repository contains the necessary submodules. All development is housed on Gitlab, this Github repository is for convienience.
 
+Be sure to get the submodules: `git submodule update --init --recursive`
+
 ## Common
 
 Common has the code that generates bindings from the backend for the frontend. Run `npm run generate-gql` in `common/` any time you change the graphql structure on the backend to keep it in sync.
